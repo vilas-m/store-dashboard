@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/vilas-m/store-dashboard/static/js/main.e681d1f0.chunk.js",
+    "main.js.map": "/vilas-m/store-dashboard/static/js/main.e681d1f0.chunk.js.map",
+    "runtime-main.js": "/vilas-m/store-dashboard/static/js/runtime-main.35ae089d.js",
+    "runtime-main.js.map": "/vilas-m/store-dashboard/static/js/runtime-main.35ae089d.js.map",
+    "static/js/2.350ee5a2.chunk.js": "/vilas-m/store-dashboard/static/js/2.350ee5a2.chunk.js",
+    "static/js/2.350ee5a2.chunk.js.map": "/vilas-m/store-dashboard/static/js/2.350ee5a2.chunk.js.map",
+    "static/js/3.cbb72101.chunk.js": "/vilas-m/store-dashboard/static/js/3.cbb72101.chunk.js",
+    "static/js/3.cbb72101.chunk.js.map": "/vilas-m/store-dashboard/static/js/3.cbb72101.chunk.js.map",
+    "index.html": "/vilas-m/store-dashboard/index.html",
+    "static/js/2.350ee5a2.chunk.js.LICENSE.txt": "/vilas-m/store-dashboard/static/js/2.350ee5a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35ae089d.js",
+    "static/js/2.350ee5a2.chunk.js",
+    "static/js/main.e681d1f0.chunk.js"
+  ]
+}
