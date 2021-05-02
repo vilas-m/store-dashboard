@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vilas-m/store-dashboard/static/css/main.125050da.chunk.css",
-    "main.js": "/vilas-m/store-dashboard/static/js/main.16d14e80.chunk.js",
-    "main.js.map": "/vilas-m/store-dashboard/static/js/main.16d14e80.chunk.js.map",
-    "runtime-main.js": "/vilas-m/store-dashboard/static/js/runtime-main.8cf95a8f.js",
-    "runtime-main.js.map": "/vilas-m/store-dashboard/static/js/runtime-main.8cf95a8f.js.map",
-    "static/js/2.e4892906.chunk.js": "/vilas-m/store-dashboard/static/js/2.e4892906.chunk.js",
-    "static/js/2.e4892906.chunk.js.map": "/vilas-m/store-dashboard/static/js/2.e4892906.chunk.js.map",
-    "static/js/3.bebfc0f5.chunk.js": "/vilas-m/store-dashboard/static/js/3.bebfc0f5.chunk.js",
-    "static/js/3.bebfc0f5.chunk.js.map": "/vilas-m/store-dashboard/static/js/3.bebfc0f5.chunk.js.map",
+    "main.css": "/vilas-m/store-dashboard/static/css/main.b46792b8.chunk.css",
+    "main.js": "/vilas-m/store-dashboard/static/js/main.cdc19c74.chunk.js",
+    "main.js.map": "/vilas-m/store-dashboard/static/js/main.cdc19c74.chunk.js.map",
+    "runtime-main.js": "/vilas-m/store-dashboard/static/js/runtime-main.3da7a34a.js",
+    "runtime-main.js.map": "/vilas-m/store-dashboard/static/js/runtime-main.3da7a34a.js.map",
+    "static/js/2.a7183727.chunk.js": "/vilas-m/store-dashboard/static/js/2.a7183727.chunk.js",
+    "static/js/2.a7183727.chunk.js.map": "/vilas-m/store-dashboard/static/js/2.a7183727.chunk.js.map",
+    "static/js/3.c154151b.chunk.js": "/vilas-m/store-dashboard/static/js/3.c154151b.chunk.js",
+    "static/js/3.c154151b.chunk.js.map": "/vilas-m/store-dashboard/static/js/3.c154151b.chunk.js.map",
     "index.html": "/vilas-m/store-dashboard/index.html",
-    "static/css/main.125050da.chunk.css.map": "/vilas-m/store-dashboard/static/css/main.125050da.chunk.css.map",
-    "static/js/2.e4892906.chunk.js.LICENSE.txt": "/vilas-m/store-dashboard/static/js/2.e4892906.chunk.js.LICENSE.txt"
+    "static/css/main.b46792b8.chunk.css.map": "/vilas-m/store-dashboard/static/css/main.b46792b8.chunk.css.map",
+    "static/js/2.a7183727.chunk.js.LICENSE.txt": "/vilas-m/store-dashboard/static/js/2.a7183727.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cf95a8f.js",
-    "static/js/2.e4892906.chunk.js",
-    "static/css/main.125050da.chunk.css",
-    "static/js/main.16d14e80.chunk.js"
+    "static/js/runtime-main.3da7a34a.js",
+    "static/js/2.a7183727.chunk.js",
+    "static/css/main.b46792b8.chunk.css",
+    "static/js/main.cdc19c74.chunk.js"
   ]
 }
