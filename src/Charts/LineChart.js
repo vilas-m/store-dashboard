@@ -28,6 +28,8 @@ const LineChart = ({ id, color }) => {
     let width = 340;
     let height = 280;
     let margin = { left: 40, right: 20, top: 10, bottom: 20 };
+    
+    console.log('data', data);
 
     let svg = d3
       .select("#lineChart" + id)
